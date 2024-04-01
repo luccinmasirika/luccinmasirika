@@ -1,6 +1,6 @@
 <img width="100%" height = "auto" src="https://i.imgur.com/9de2Ow0.jpg" alt="cover" />
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="luccin243" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="luccinmasirika" /></h1>
 
 <h5 align="center"><em>A passionate frontend developer from Congo</em></h5>
 
@@ -24,25 +24,25 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luccin243/mui-nextjs-ts-starter-kit"><b>MUI Nextjs Typescript Starter kit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/luccinmasirika/mui-nextjs-ts-starter-kit"><b>MUI Nextjs Typescript Starter kit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luccin243/food-delivrery"><b>Food Delivrery App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/luccinmasirika/food-delivrery"><b>Food Delivrery App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccinmasirika/food-delivrery?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccinmasirika/food-delivrery?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccinmasirika/food-delivrery?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccinmasirika/food-delivrery?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luccin243/building-wakanda"><b>Simple website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/luccinmasirika/building-wakanda"><b>Simple website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccinmasirika/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccinmasirika/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccinmasirika/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccinmasirika/building-wakanda?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -83,4 +83,4 @@
 
 <br/>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" style="width:370px" alt="luccin243" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&show_icons=true&count_private=true" alt="luccinmasirika" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccinmasirika&" style="width:370px" alt="luccinmasirika" /></p>
