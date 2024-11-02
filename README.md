@@ -45,12 +45,19 @@
 </table>
 <br/>
 <h2>👨🏻‍💻 About Me</h2>
+
 <img width="35%" align="right" alt="Github" src="https://i.imgur.com/9gj3NBS.png" />
+
 - 🔭 Currently building advanced web and mobile solutions with **React**, **Vue**, and **Next.js**
+  
 - 🌱 Learning **Lean LLM AI** and diving deeper into **Rust**
+  
 - 👯 Open to collaborating on **frontend architectures**, **open-source projects**, and **freelancing opportunities**
+  
 - 💬 Reach out for anything **JavaScript**, **performance optimization**, or **advanced UI/UX design**
+  
 - 📫 Reach me at **luccinmasirika@gmail.com**
+  
 <br/>
 <p align="left">
    <a href="https://twitter.com/luccinmasirika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccinmasirika" height="30" width="40" /></a>
