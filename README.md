@@ -75,7 +75,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luccinmasirika&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=luccinmasirika&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api?username=luccinmasirika&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luccinmasirika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
