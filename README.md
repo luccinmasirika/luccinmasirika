@@ -3,27 +3,26 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="typing" />
 </h1>
-<h3 align="center"><em>Senior Frontend Engineer • OSS Enthusiast • UI Craftsman</em></h3>
+<h3 align="center"><em>Senior Frontend Engineer • OSS Advocate • UI/UX Specialist</em></h3>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
 <img align="right" width="35%" src="https://i.imgur.com/9gj3NBS.png" />
 
-- 🧠 Passionné par l'ingénierie frontend, la performance, et les interfaces propres.
-- 🌍 Basé en Afrique, engagé dans l’open source et les communautés tech locales.
-- 🔭 Je travaille sur des projets web & mobile avancés avec **React**, **Vue**, **Next.js**.
-- 🦀 Je découvre actuellement **Rust** et les **modèles LLM** côté dev & infra.
-- 💼 Ouvert à la collaboration, au mentoring, et aux missions freelance.
-- 📫 Contacte-moi ici : **luccinmasirika@gmail.com**
+- 🔥 Frontend engineer with a strong focus on performance and user experience
+- ⚡ Working with **React**, **Vue**, **Next.js**, **TypeScript**, and full-stack JavaScript
+- 🧠 Exploring **Rust** and diving deeper into **LLMs and AI systems**
+- 🤝 Open to collaboration, mentoring, and freelance opportunities
+- 📨 Reach me at: **luccinmasirika@gmail.com**
 
 ---
 
-## 🚀 Projets Open Source Sélectionnés
+## 🚀 Featured Open Source Projects
 
-| 🎁 Projet | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 PRs |
-|----------|---------|----------|-----------|--------|
+| 🧩 Project | ⭐ Stars | 🍴 Forks | 🐞 Issues | 📬 PRs |
+|-----------|---------|----------|-----------|--------|
 | [Updev Community](https://github.com/UPTODATE-DEV/updevcommunity-frontend) | ![Stars](https://img.shields.io/github/stars/UPTODATE-DEV/updevcommunity-frontend?style=flat-square) | ![Forks](https://img.shields.io/github/forks/UPTODATE-DEV/updevcommunity-frontend?style=flat-square) | ![Issues](https://img.shields.io/github/issues/UPTODATE-DEV/updevcommunity-frontend?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/UPTODATE-DEV/updevcommunity-frontend?style=flat-square) |
 | [MUI Next.js Starter Kit](https://github.com/luccinmasirika/mui-nextjs-ts-starter-kit) | ![Stars](https://img.shields.io/github/stars/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square) | ![Forks](https://img.shields.io/github/forks/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square) | ![Issues](https://img.shields.io/github/issues/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/luccinmasirika/mui-nextjs-ts-starter-kit?style=flat-square) |
 | [NestJS Cats System](https://github.com/luccinmasirika/nestjs-cats-system) | ![Stars](https://img.shields.io/github/stars/luccinmasirika/nestjs-cats-system?style=flat-square) | ![Forks](https://img.shields.io/github/forks/luccinmasirika/nestjs-cats-system?style=flat-square) | ![Issues](https://img.shields.io/github/issues/luccinmasirika/nestjs-cats-system?style=flat-square) | ![PRs](https://img.shields.io/github/issues-pr/luccinmasirika/nestjs-cats-system?style=flat-square) |
@@ -34,27 +33,24 @@
 
 ---
 
-## 💻 Stack Technique
+## 💻 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vue.js)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js)
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs)
+**Backend & Tools**
+<br/>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django)
-
-### Dev & Infra
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite)
-![AWS](https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
 
 ---
 
@@ -65,13 +61,13 @@
 
 ---
 
-## 🏆 Trophées GitHub
+## 🏆 GitHub Trophies
 
-![Trophées](https://github-profile-trophy.vercel.app/?username=luccinmasirika&theme=radical&no-bg=true&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=luccinmasirika&theme=radical&no-bg=true&margin-w=8)
 
 ---
 
-## 📣 Suis-moi ici
+## 🌐 Connect with me
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/luccinmasirika)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/luccin-masirika)
@@ -81,15 +77,15 @@
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Dev Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🌐 Portfolio
+## 💼 Portfolio
 
-🖥 [https://luccin-portfolio.vercel.app](https://luccin-portfolio.vercel.app)
+🔗 [https://luccin-portfolio.vercel.app](https://luccin-portfolio.vercel.app)
 
 ---
 
