@@ -47,19 +47,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter)](https://twitter.com/luccinmasirika)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/luccin-masirika)
-
----
-
-## ✍️ Dev Quote of the Day
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 💼 Portfolio
 
 🔗 [https://luccinmasirika.com](https://luccinmasirika.com)
