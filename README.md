@@ -1,51 +1,53 @@
-<img width="100%" height="auto" src="https://i.imgur.com/9de2Ow0.jpg" alt="cover" />
+<h1 align="center">Luccin Masirika</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=3594F4&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="typing" />
-</h1>
-<h3 align="center"><em>Senior Frontend Engineer • OSS Advocate • UI/UX Specialist</em></h3>
+<p align="center">
+  <b>Lead Software Engineer</b> &nbsp;·&nbsp; Backend &amp; Systems &nbsp;·&nbsp; TypeScript · Rust · Go
+</p>
 
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="35%" src="https://i.imgur.com/9gj3NBS.png" />
-
-- 🔥 Frontend engineer with a strong focus on performance and user experience
-- ⚡ Working with **React**, **Vue**, **Next.js**, **TypeScript**, and full-stack JavaScript
-- 🧠 Exploring **Rust** and diving deeper into **LLMs and AI systems**
-- 🤝 Open to collaboration, mentoring, and freelance opportunities
-- 📨 Reach me at: **luccinmasirika@gmail.com**
-  
----
-
-## 💻 Tech Stack
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-
-**Backend & Tools**
-<br/>
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+<p align="center">
+  <a href="https://luccinmasirika.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:luccinmasirika@gmail.com">Email</a> &nbsp;·&nbsp;
+  Based in Kigali 🇷🇼
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### About
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccinmasirika&theme=dark&show_icons=true)
+I'm a Lead Software Engineer at **[Destygo](https://github.com/Destygo)**, shipping production systems end to end. My foundation is fullstack **TypeScript** (NestJS, Prisma, React/Next), and I work close to the metal in **Rust** — from system-level audio streaming to UI tooling. More recently I've been contributing to the **Go** ecosystem, including a fix to [Caddy](https://github.com/caddyserver/caddy).
 
----
+I care about correctness, performance, and code that other engineers actually enjoy reading.
 
-## 💼 Portfolio
+### Tech I work with
 
-🔗 [https://luccinmasirika.com](https://luccinmasirika.com)
+**Languages** &nbsp; TypeScript · Rust · Go · JavaScript · SQL
+
+**Backend** &nbsp; Node.js · NestJS · Prisma · PostgreSQL · REST &amp; gRPC
+
+**Systems** &nbsp; Rust · Tokio · WebAssembly · Leptos
+
+**Frontend** &nbsp; React · Next.js · Vue · Tailwind CSS
+
+**Infra** &nbsp; Docker · AWS · CI/CD · Linux
+
+### Open source
+
+- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** — Go · fixed `file_server`'s `hide` directive so repeated entries append instead of overwriting *(approved)*
+- **Rust ecosystem** — contributing to component libraries (Leptos) and developer tooling
+- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** — Rust · lightweight system-audio → AirPlay streamer
+
+### Selected work
+
+| Project | Stack | What it is |
+|---|---|---|
+| [kora-sync](https://github.com/luccinmasirika/kora-sync) | Rust | Streams system audio to AirPlay devices |
+| [Binance-P2P-Analytics](https://github.com/luccinmasirika/Binance-P2P-Analytics) | TypeScript | P2P market analytics dashboard |
+| [nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter) | NestJS · Prisma | Production-ready backend starter |
+| [Portfolio](https://luccinmasirika.com) | Astro · TS | Personal site |
+
+### GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccinmasirika&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
+</p>
