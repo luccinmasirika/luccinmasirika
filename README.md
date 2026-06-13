@@ -2,13 +2,13 @@
 
 `luccin@kigali:~$ whoami`
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=Lead+Software+Engineer;Backend+%26+Systems+Engineer;TypeScript+%C2%B7+Rust+%C2%B7+Go;Shipping+production+systems+end+to+end)](https://luccinmasirika.com)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer;Backend+%26+Systems+Engineer;TypeScript+%C2%B7+Rust+%C2%B7+Go;Shipping+production+systems+end+to+end)](https://luccinmasirika.com)
 
 </div>
 
 ```ts
 const luccin = {
-  role: "Lead Software Engineer @ Destygo",
+  role: "Senior Software Engineer @ Destygo",
   focus: ["backend", "systems", "developer-experience"],
   languages: ["TypeScript", "Rust", "Go"],
   currently: "contributing to the Go & Rust open-source ecosystem",
