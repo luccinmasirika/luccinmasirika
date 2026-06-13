@@ -21,14 +21,12 @@
 
 ### Tech
 
-<p align="center">
-  <img alt="tech stack" src="https://skillicons.dev/icons?i=ts,rust,go,nodejs,nestjs,postgres,react,nextjs,docker,aws&theme=dark" />
-</p>
+<img alt="tech stack" src="https://skillicons.dev/icons?i=ts,rust,go,nodejs,nestjs,postgres,react,nextjs,docker,aws&theme=dark&perline=10" />
 
 ### Highlights
 
-- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** &nbsp;·&nbsp; `Go` — fix to `file_server`'s `hide` directive, reviewed &amp; approved
-- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** &nbsp;·&nbsp; `Rust` — streams system audio to AirPlay devices
-- **[nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter)** &nbsp;·&nbsp; `TypeScript` — production-ready NestJS + Prisma backend foundation
+- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** — fixed `file_server`'s `hide` directive, reviewed &amp; approved &nbsp;<sub>`Go`</sub>
+- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** — streams system audio to AirPlay devices &nbsp;<sub>`Rust`</sub>
+- **[nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter)** — production-ready NestJS + Prisma backend &nbsp;<sub>`TypeScript`</sub>
 
-<sub>📍 Kigali, Rwanda · open to interesting backend &amp; systems problems</sub>
+<sub>📍 Kigali, Rwanda &nbsp;·&nbsp; open to interesting backend &amp; systems problems</sub>

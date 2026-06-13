@@ -5,8 +5,8 @@
       <stop offset="1" stop-color="#090c11"/>
     </linearGradient>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#22c55e" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="50"/>
@@ -30,16 +30,16 @@
       <animate attributeName="cx" values="1010;930;1010" dur="17s" repeatCount="indefinite"/>
     </ellipse>
 
-    <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#22c55e" stroke-opacity="0.20"/>
+    <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#10b981" stroke-opacity="0.20"/>
 
     <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
       <text x="600" y="150" font-size="62" font-weight="700" fill="#f0f6fc" letter-spacing="6">LUCCIN MASIRIKA</text>
       <text x="600" y="193" font-size="17.5" font-weight="500" fill="#9aa4b2" letter-spacing="4.5">SENIOR SOFTWARE ENGINEER&#160;&#160;·&#160;&#160;BACKEND &amp; SYSTEMS</text>
-      <rect x="566" y="214" width="68" height="2.5" rx="1.25" fill="#22c55e">
+      <rect x="566" y="214" width="68" height="2.5" rx="1.25" fill="#10b981">
         <animate attributeName="width" values="44;92;44" dur="6s" repeatCount="indefinite"/>
         <animate attributeName="x" values="578;554;578" dur="6s" repeatCount="indefinite"/>
       </rect>
-      <text x="600" y="252" font-size="17" fill="#4ade80" letter-spacing="2.5" font-family="'SF Mono','Consolas','Liberation Mono',monospace">TypeScript&#160;·&#160;Rust&#160;·&#160;Go</text>
+      <text x="600" y="252" font-size="17" fill="#34d399" letter-spacing="2.5" font-family="'SF Mono','Consolas','Liberation Mono',monospace">TypeScript&#160;·&#160;Rust&#160;·&#160;Go</text>
     </g>
   </g>
 </svg>
