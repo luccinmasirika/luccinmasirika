@@ -13,6 +13,18 @@
 
 ---
 
+### What I do
+
+- **Backend &amp; APIs** — Node.js · NestJS · Prisma · PostgreSQL
+- **Systems &amp; performance** — Rust · Tokio · WebAssembly
+- **Fullstack product** — TypeScript · React · Next.js
+
+### Tech
+
+<p align="center">
+  <img alt="tech stack" src="https://skillicons.dev/icons?i=ts,rust,go,nodejs,nestjs,postgres,react,nextjs,docker,aws&theme=dark" />
+</p>
+
 ### Highlights
 
 - **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** &nbsp;·&nbsp; `Go` — fix to `file_server`'s `hide` directive, reviewed &amp; approved
