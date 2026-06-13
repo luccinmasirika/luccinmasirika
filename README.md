@@ -1,54 +1,22 @@
-```diff
-@@ luccin@kigali:~$ whoami @@
-+ Luccin Masirika — Senior Software Engineer · Backend & Systems
+<img src="./assets/banner.svg" width="100%" alt="Luccin Masirika — Senior Software Engineer · Backend & Systems" />
 
-@@ luccin@kigali:~$ neofetch @@
-+ role
-    Senior Software Engineer @ Destygo
-+ location
-    Kigali, Rwanda
-+ languages
-    TypeScript · Rust · Go
-+ focus
-    backend · systems · developer-experience
+<p align="center">
+  I build reliable backend &amp; systems teams can depend on — across <b>TypeScript</b>, <b>Rust</b> &amp; <b>Go</b>.
+</p>
 
-@@ luccin@kigali:~$ cat stack.txt @@
-+ backend
-    node.js · nestjs · prisma · postgresql · rest/grpc
-+ systems
-    rust · tokio · webassembly · leptos
-+ fullstack
-    typescript · react · next.js · tailwind
-+ infra
-    docker · aws · linux · ci/cd
+<p align="center">
+  <a href="https://www.linkedin.com/in/luccin-masirika">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://luccinmasirika.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:luccinmasirika@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://x.com/luccinmasirika">X</a>
+</p>
 
-@@ luccin@kigali:~$ make ci @@
-+ tsc --noEmit
-    ✓ passed
-+ cargo test
-    ✓ passed
-+ go vet ./...
-    ✓ passed
-+ build: SUCCESS
+---
 
-@@ luccin@kigali:~$ git log --author=luccin --oneline @@
-+ caddy
-    go · fix file_server hide directive — reviewed & approved
-+ kora-sync
-    rust · streams system audio to AirPlay devices
-+ nestjs-prisma-starter
-    ts · production-ready NestJS + Prisma backend
+### Highlights
 
-@@ luccin@kigali:~$ cat contact.txt @@
-+ linkedin
-    linkedin.com/in/luccin-masirika
-+ x
-    x.com/luccinmasirika
-+ web
-    luccinmasirika.com
-+ email
-    luccinmasirika@gmail.com
+- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** &nbsp;·&nbsp; `Go` — fix to `file_server`'s `hide` directive, reviewed &amp; approved
+- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** &nbsp;·&nbsp; `Rust` — streams system audio to AirPlay devices
+- **[nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter)** &nbsp;·&nbsp; `TypeScript` — production-ready NestJS + Prisma backend foundation
 
-@@ luccin@kigali:~$ echo $STATUS @@
-+ open to interesting backend & systems problems
-```
+<sub>📍 Kigali, Rwanda · open to interesting backend &amp; systems problems</sub>
