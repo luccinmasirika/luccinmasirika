@@ -1,42 +1,53 @@
-<h1 align="center">Luccin Masirika</h1>
+<div align="center">
 
-<p align="center">
-  <b>Lead Software Engineer</b> &nbsp;·&nbsp; Backend &amp; Systems &nbsp;·&nbsp; TypeScript · Rust · Go
-</p>
+`luccin@kigali:~$ whoami`
 
-<p align="center">
-  <a href="https://luccinmasirika.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:luccinmasirika@gmail.com">Email</a> &nbsp;·&nbsp;
-  Based in Kigali 🇷🇼
-</p>
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=Lead+Software+Engineer;Backend+%26+Systems+Engineer;TypeScript+%C2%B7+Rust+%C2%B7+Go;Shipping+production+systems+end+to+end)](https://luccinmasirika.com)
+
+</div>
+
+```ts
+const luccin = {
+  role: "Lead Software Engineer @ Destygo",
+  focus: ["backend", "systems", "developer-experience"],
+  languages: ["TypeScript", "Rust", "Go"],
+  currently: "contributing to the Go & Rust open-source ecosystem",
+  location: "Kigali 🇷🇼",
+};
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=astro&logoColor=0d1117)](https://luccinmasirika.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccin-masirika)
+[![X](https://img.shields.io/badge/@luccinmasirika-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luccinmasirika)
+[![Email](https://img.shields.io/badge/Email-c9d1d9?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:luccinmasirika@gmail.com)
+
+</div>
 
 ---
 
-### About
+### `> stack`
 
-I'm a Lead Software Engineer at **[Destygo](https://github.com/Destygo)**, shipping production systems end to end. My foundation is fullstack **TypeScript** (NestJS, Prisma, React/Next), and I work close to the metal in **Rust** — from system-level audio streaming to UI tooling. More recently I've been contributing to the **Go** ecosystem, including a fix to [Caddy](https://github.com/caddyserver/caddy).
+<div align="center">
 
-I care about correctness, performance, and code that other engineers actually enjoy reading.
+![langs](https://skillicons.dev/icons?i=ts,rust,go,js&theme=dark)
 
-### Tech I work with
+![tools](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,react,nextjs,tailwind,docker,aws,linux&theme=dark)
 
-**Languages** &nbsp; TypeScript · Rust · Go · JavaScript · SQL
+</div>
 
-**Backend** &nbsp; Node.js · NestJS · Prisma · PostgreSQL · REST &amp; gRPC
+---
 
-**Systems** &nbsp; Rust · Tokio · WebAssembly · Leptos
+### `> open-source`
 
-**Frontend** &nbsp; React · Next.js · Vue · Tailwind CSS
-
-**Infra** &nbsp; Docker · AWS · CI/CD · Linux
-
-### Open source
-
-- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** — Go · fixed `file_server`'s `hide` directive so repeated entries append instead of overwriting *(approved)*
+- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** · `Go` — fixed `file_server`'s `hide` directive so repeated entries append instead of overwriting *(approved)*
 - **Rust ecosystem** — contributing to component libraries (Leptos) and developer tooling
-- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** — Rust · lightweight system-audio → AirPlay streamer
+- **[kora-sync](https://github.com/luccinmasirika/kora-sync)** · `Rust` — lightweight system-audio → AirPlay streamer
 
-### Selected work
+---
+
+### `> selected-work`
 
 | Project | Stack | What it is |
 |---|---|---|
@@ -45,9 +56,37 @@ I care about correctness, performance, and code that other engineers actually en
 | [nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter) | NestJS · Prisma | Production-ready backend starter |
 | [Portfolio](https://luccinmasirika.com) | Astro · TS | Personal site |
 
-### GitHub
+---
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccinmasirika&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</p>
+### `> stats`
+
+<div align="center">
+
+<img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&show_icons=true&hide_border=true&count_private=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccinmasirika&layout=compact&hide_border=true&langs_count=8&title_color=39d353&text_color=c9d1d9&bg_color=0d1117" />
+
+<img alt="streak" src="https://streak-stats.demolab.com?user=luccinmasirika&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+</div>
+
+---
+
+### `> activity`
+
+<div align="center">
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luccinmasirika&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)
+
+![snake](https://raw.githubusercontent.com/luccinmasirika/luccinmasirika/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=luccinmasirika&color=39d353&style=flat-square&label=visitors)
+
+`luccin@kigali:~$ ▮`
+
+</div>
