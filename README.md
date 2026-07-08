@@ -11,6 +11,11 @@
   <a href="https://x.com/luccinmasirika">X</a>
 </p>
 
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;hide=issues&amp;count_private=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccinmasirika&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;langs_count=8" />
+</p>
+
 ---
 
 ### What I do
@@ -23,10 +28,17 @@
 
 <img alt="tech stack" src="https://skillicons.dev/icons?i=ts,rust,go,nodejs,nestjs,postgres,react,nextjs,docker,aws&theme=dark&perline=10" />
 
-### Highlights
+### Recent OSS
 
-- **[Caddy](https://github.com/caddyserver/caddy/pull/7817)** — fixed `file_server`'s `hide` directive, reviewed &amp; approved &nbsp;<sub>`Go`</sub>
+- **[caddy #7817](https://github.com/caddyserver/caddy/pull/7817)** — `file_server` now appends repeated `hide` subdirectives · merged &amp; approved &nbsp;<sub>`Go`</sub>
+- **[caddy/website #545](https://github.com/caddyserver/website/pull/545)** — documented the new `hide` behaviour &nbsp;<sub>`Markdown`</sub>
+- **[rtk-ai/rtk #2422](https://github.com/rtk-ai/rtk/pull/2422)** — surface `cargo` build errors instead of a summary line · merged &nbsp;<sub>`Rust`</sub>
+
+### Featured
+
+- **[s3rsync](https://github.com/luccinmasirika/s3rsync)** — streaming S3↔S3 copier, 2.1–2.4× rclone on small objects &nbsp;<sub>`Rust`</sub>
+- **[sweep](https://github.com/luccinmasirika/sweep)** — safe, interactive disk cleanup for macOS, Homebrew tap &nbsp;<sub>`Rust`</sub>
+- **[rtk](https://github.com/luccinmasirika/rtk)** — CLI proxy cutting LLM token use 60–90%, single zero-dep binary &nbsp;<sub>`Rust`</sub>
 - **[kora-sync](https://github.com/luccinmasirika/kora-sync)** — streams system audio to AirPlay devices &nbsp;<sub>`Rust`</sub>
-- **[nestjs-prisma-starter](https://github.com/luccinmasirika/nestjs-prisma-starter)** — production-ready NestJS + Prisma backend &nbsp;<sub>`TypeScript`</sub>
 
 <sub>📍 Kigali, Rwanda &nbsp;·&nbsp; open to interesting backend &amp; systems problems</sub>
