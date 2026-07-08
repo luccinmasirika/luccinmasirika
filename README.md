@@ -12,8 +12,11 @@
 </p>
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luccinmasirika&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;hide=issues&amp;count_private=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccinmasirika&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;langs_count=8" />
+  <a href="https://github.com/luccinmasirika?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/luccinmasirika?style=for-the-badge&amp;labelColor=0c1017&amp;color=2ea043&amp;logo=github&amp;logoColor=white" /></a>
+  &nbsp;
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luccinmasirika&amp;style=for-the-badge&amp;color=2ea043&amp;label=PROFILE+VIEWS" />
+  &nbsp;
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-2ea043?style=for-the-badge&amp;labelColor=0c1017" />
 </p>
 
 ---
