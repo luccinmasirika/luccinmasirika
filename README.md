@@ -41,7 +41,6 @@
 
 - **[s3rsync](https://github.com/luccinmasirika/s3rsync)** — streaming S3↔S3 copier, 2.1–2.4× rclone on small objects &nbsp;<sub>`Rust`</sub>
 - **[sweep](https://github.com/luccinmasirika/sweep)** — safe, interactive disk cleanup for macOS, Homebrew tap &nbsp;<sub>`Rust`</sub>
-- **[rtk](https://github.com/luccinmasirika/rtk)** — CLI proxy cutting LLM token use 60–90%, single zero-dep binary &nbsp;<sub>`Rust`</sub>
 - **[kora-sync](https://github.com/luccinmasirika/kora-sync)** — streams system audio to AirPlay devices &nbsp;<sub>`Rust`</sub>
 
 <sub>📍 Kigali, Rwanda &nbsp;·&nbsp; open to interesting backend &amp; systems problems</sub>
