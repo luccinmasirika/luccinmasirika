@@ -31,11 +31,16 @@
 
 <img alt="tech stack" src="https://skillicons.dev/icons?i=ts,rust,go,nodejs,nestjs,postgres,react,nextjs,docker,aws&theme=dark&perline=10" />
 
-### Recent OSS
+### Open source
 
-- **[caddy #7817](https://github.com/caddyserver/caddy/pull/7817)** — `file_server` now appends repeated `hide` subdirectives · merged &amp; approved &nbsp;<sub>`Go`</sub>
-- **[caddy/website #545](https://github.com/caddyserver/website/pull/545)** — documented the new `hide` behaviour &nbsp;<sub>`Markdown`</sub>
-- **[rtk-ai/rtk #2422](https://github.com/rtk-ai/rtk/pull/2422)** — surface `cargo` build errors instead of a summary line · merged &nbsp;<sub>`Rust`</sub>
+Code merged into two of the largest projects in their ecosystems:
+
+- **[caddyserver/caddy](https://github.com/caddyserver/caddy)** &nbsp;<sub>`74k ★` · `Go`</sub><br />
+  [#7817](https://github.com/caddyserver/caddy/pull/7817) — `file_server` now appends repeated `hide` subdirectives instead of overwriting them · merged &amp; approved
+- **[rtk-ai/rtk](https://github.com/rtk-ai/rtk)** &nbsp;<sub>`71k ★` · `Rust`</sub><br />
+  [#2422](https://github.com/rtk-ai/rtk/pull/2422) — `--message-format=json` diagnostics surfaced across `build`, `check`, `test` &amp; `clippy`, through several rounds of maintainer review · merged
+
+<sub>Also — <a href="https://github.com/caddyserver/website/pull/545">caddy/website #545</a> documenting the <code>hide</code> change · approved &nbsp;·&nbsp; <a href="https://github.com/rtk-ai/rtk/pull/2417">rtk #2417</a> on <code>aws eks</code> output · open</sub>
 
 ### Featured
 
