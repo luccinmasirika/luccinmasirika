@@ -1,0 +1,4 @@
+{
+  "caddyserver/caddy#7817": "Repeated `hide` subdirectives now append instead of overwriting",
+  "rtk-ai/rtk#2422": "Cargo JSON diagnostics across build, check, test & clippy"
+}
