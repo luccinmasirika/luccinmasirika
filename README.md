@@ -39,7 +39,7 @@ Code merged into two of the largest projects in their ecosystems.
 
 - **74.2k ★** &nbsp; [caddyserver/caddy](https://github.com/caddyserver/caddy) &nbsp;<sub>`Go`</sub><br />
   Repeated `hide` subdirectives now append instead of overwriting — [#7817](https://github.com/caddyserver/caddy/pull/7817), merged.
-- **71.6k ★** &nbsp; [rtk-ai/rtk](https://github.com/rtk-ai/rtk) &nbsp;<sub>`Rust`</sub><br />
+- **71.8k ★** &nbsp; [rtk-ai/rtk](https://github.com/rtk-ai/rtk) &nbsp;<sub>`Rust`</sub><br />
   Cargo JSON diagnostics across build, check, test & clippy — [#2422](https://github.com/rtk-ai/rtk/pull/2422), merged.
 
 <!-- OSS:END -->
