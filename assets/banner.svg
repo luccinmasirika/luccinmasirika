@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Luccin Masirika — Senior Software Engineer, Backend and Systems">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Luccin Masirika, Senior Frontend Engineer, AI Products">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0c1017"/>
@@ -34,12 +34,12 @@
 
     <g text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
       <text x="600" y="150" font-size="62" font-weight="700" fill="#f0f6fc" letter-spacing="6">LUCCIN MASIRIKA</text>
-      <text x="600" y="193" font-size="17.5" font-weight="500" fill="#9aa4b2" letter-spacing="4.5">SENIOR SOFTWARE ENGINEER&#160;&#160;·&#160;&#160;BACKEND &amp; SYSTEMS</text>
+      <text x="600" y="193" font-size="17.5" font-weight="500" fill="#9aa4b2" letter-spacing="4.5">SENIOR FRONTEND ENGINEER&#160;&#160;·&#160;&#160;AI PRODUCTS</text>
       <rect x="566" y="214" width="68" height="2.5" rx="1.25" fill="#10b981">
         <animate attributeName="width" values="44;92;44" dur="6s" repeatCount="indefinite"/>
         <animate attributeName="x" values="578;554;578" dur="6s" repeatCount="indefinite"/>
       </rect>
-      <text x="600" y="252" font-size="17" fill="#34d399" letter-spacing="2.5" font-family="'SF Mono','Consolas','Liberation Mono',monospace">TypeScript&#160;·&#160;Rust&#160;·&#160;Go</text>
+      <text x="600" y="252" font-size="17" fill="#34d399" letter-spacing="2.5" font-family="'SF Mono','Consolas','Liberation Mono',monospace">React&#160;·&#160;TypeScript&#160;·&#160;Rust</text>
     </g>
   </g>
 </svg>
