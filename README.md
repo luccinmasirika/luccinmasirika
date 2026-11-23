@@ -1,35 +1,29 @@
-<img src="./assets/banner.svg" width="100%" alt="Luccin Masirika, Senior Frontend Engineer · AI Products" />
+<img src="./assets/banner.svg" width="100%" alt="Luccin Masirika, Senior Frontend &amp; Product Engineer · AI Interfaces" />
 
 <p align="center">
-  I build frontends for AI products: streaming chat UIs, LLM integrations, and the fast, tested <b>React</b> codebases behind them. <b>Rust</b> on the side.
+  I build the user-facing side of AI products: streaming chat interfaces, accessible component libraries and the <b>React</b> and <b>TypeScript</b> codebases behind them.
 </p>
 
 <p align="center">
+  <a href="https://www.luccinmasirika.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.luccinmasirika.com/Luccin-Masirika-Resume.pdf">Résumé</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/luccin-masirika">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://luccinmasirika.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="mailto:luccinmasirika@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://x.com/luccinmasirika">X</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/luccinmasirika?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/luccinmasirika?style=for-the-badge&amp;labelColor=0c1017&amp;color=2ea043&amp;logo=github&amp;logoColor=white" /></a>
-  &nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=luccinmasirika&amp;style=for-the-badge&amp;color=2ea043&amp;label=PROFILE+VIEWS" />
-  &nbsp;
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Frontend%20%26%20AI-2ea043?style=for-the-badge&amp;labelColor=0c1017" />
+  <a href="https://x.com/luccinmasirika">X</a> &nbsp;·&nbsp;
+  <a href="mailto:luccinmasirika@gmail.com">Email</a>
 </p>
 
 ---
 
-### What I do
+### What I work on
 
-- **Frontend &amp; AI products**: React · Next.js · TypeScript · LLM integrations (OpenAI, Azure OpenAI)
-- **Backend &amp; APIs**: Node.js · NestJS · Prisma · MySQL
-- **Systems &amp; performance**: Rust · Tokio · CLI tooling
+- **AI interfaces**: streaming chat over SSE and WebSockets, LLM-driven UI (buttons, carousels, lists), prompt management, provider setup for OpenAI, Azure OpenAI and Mistral
+- **Accessibility**: WCAG and RGAA work validated with screen reader users, VoiceOver, focus management, live regions
+- **Frontend architecture**: design systems on Radix UI and Storybook, Module Federation micro-frontends, Vue 2 to React migrations, embeddable widgets isolated with Shadow DOM
+- **Quality**: Jest, Vitest, Playwright, Cypress, jest-axe, CI that actually runs every suite
 
-### Tech
+### Building
 
-<img alt="tech stack" src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,mysql,rust,docker,aws&theme=dark&perline=10" />
+- **[Molakisi](https://www.molakisi.com)**: exam-prep app for high school students in DR Congo. Works offline, has an AI tutor in French, and its video lessons are generated from code. Founder and sole developer.
 
 ### Open source
 
@@ -44,12 +38,13 @@ Code merged into two of the largest projects in their ecosystems.
 
 <!-- OSS:END -->
 
-<sub>Also: <a href="https://github.com/caddyserver/website/pull/545">caddy/website #545</a> (approved) &nbsp;·&nbsp; <a href="https://github.com/rtk-ai/rtk/pull/2417">rtk #2417</a> (open)</sub>
+### Tools I wrote
 
-### Featured
+- **[s3rsync](https://github.com/luccinmasirika/s3rsync)**: streaming S3 to S3 copier, about 2× rclone on small objects in my benchmarks
+- **[sweep](https://github.com/luccinmasirika/sweep)**: safe, interactive disk cleanup for macOS
 
-- **[s3rsync](https://github.com/luccinmasirika/s3rsync)**: streaming S3↔S3 copier, about 2× rclone on small objects in my benchmarks &nbsp;<sub>`Rust`</sub>
-- **[sweep](https://github.com/luccinmasirika/sweep)**: safe, interactive disk cleanup for macOS, Homebrew tap &nbsp;<sub>`Rust`</sub>
-- **[kora-sync](https://github.com/luccinmasirika/kora-sync)**: streams system audio to AirPlay devices &nbsp;<sub>`Rust`</sub>
+### Stack
 
-<sub>📍 Kigali, Rwanda &nbsp;·&nbsp; open to senior frontend &amp; AI product work</sub>
+<img alt="tech stack" src="https://skillicons.dev/icons?i=react,ts,nextjs,vue,vite,tailwind,nodejs,nestjs,py,docker&theme=dark&perline=10" />
+
+<sub>8 years shipping production web apps · Remote · UTC+2</sub>
